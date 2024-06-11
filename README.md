@@ -44,8 +44,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="http://www.w3.org/2000/svg" height="40" alt="playwright logo"  />
 </div>
 
 ###
