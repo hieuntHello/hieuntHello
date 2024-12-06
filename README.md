@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2012. Melbourne absolutely  brewed my interest in coding. <br>💪 How programming has helped with my actual work so far?<br>- As a fresh graduate, I helped a matured team to solve a critical bottleneck issue of a database used on various reports from many functional teams. I did not challenge the status quo, I CPRed and brought it back to life. <br>- As a finance guy, I helped to provide automated solution solving technological hiccup in UAT of a new core system. I challenged the status quo with a power granted from a different discipline (Selenium). <br>- Not a backend developer, I built a temporary solution up to 80% of what an actual system's capacity should be to handle off-the-shelf products. This cut costs, significantly.  <br>📚 I'm currently learning NextJS,MongoDB and aiming to complete CAIA certification.<br>🎯 Goals: Bring all learnings across various practices to ultimately become a qualified actuary.<br>🎲 Fun fact: I am aiming to acquire several more certifications in Finances and Accounting before become qualified actuary. At the same time, I am trying to immerse myself in impactful technologies along the journey.</p>
+<p align="left">✨ Creating bugs since 2012. Melbourne absolutely  brewed my interest in coding. <br>💪 How programming has helped with my actual work so far?<br>- As a fresh graduate, I helped a matured team to solve a critical bottleneck issue of a database used on various reports from many functional teams. I did not challenge the status quo, I CPRed and brought it back to life. <br>- As a finance guy, I helped to provide automated solution solving technological hiccup in UAT of a new core system. I challenged the status quo with a power granted from a different discipline (Selenium). <br>- Not a backend developer, I built a temporary solution up to 80% of what an actual system's capacity should be to handle off-the-shelf products. This cut costs, significantly.  <br>📚 I'm currently learning Javascript,MongoDB and aiming to complete CAIA certification.<br>🎯 Goals: Bring all learnings across various practices to ultimately become a qualified actuary.<br>🎲 Fun fact: I am aiming to acquire several more certifications in Finances and Accounting before become qualified actuary. At the same time, I am trying to immerse myself in impactful technologies along the journey.</p>
 
 ###
 
@@ -19,22 +19,30 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" height="40" alt="vbnet logo" />
+  <img width="12" />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg"  height="40" alt="fsharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"  height="40" alt="pơershell logo" />
 </div>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original-wordmark.svg" height="40" alt="cosmodb logo" />
+  <img width="12" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="mssql logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -43,7 +51,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" alt="selenium logo" />
 </div>
 
 ###
